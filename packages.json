@@ -12467,5 +12467,19 @@
     "description": "HQ Trivia API wrapper for Nim",
     "license": "MIT",
     "web": "https://github.com/sillibird/nimhq"
+  },
+  {
+    "name": "binio",
+    "url": "https://github.com/Riderfighter/binio",
+    "method": "git",
+    "tags": [
+      "packed",
+      "unpacked",
+      "structured",
+      "data"
+    ],
+    "description": "Package for packing and unpacking byte data",
+    "license": "MIT",
+    "web": "https://github.com/Riderfighter/binio"
   }
 ]
